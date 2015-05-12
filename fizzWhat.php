@@ -13,7 +13,7 @@ class fizzWhat {
 		}
 		$this->language = $language;
 
-		arsort($numbers);
+		rsort($numbers);
 		$this->numbers = $numbers;
 	}
 

@@ -1,6 +1,6 @@
 <?php
 include("fizzWhat.php");
-$fizzWhat = new fizzWhat('php');
+$fizzWhat = new fizzWhat('php', array(1000, 2, 3));
 echo $fizzWhat->passProgrammingTest();
 
 $fizzWhat->ohCrapInterviewerAskedForDifferentLanguage('java');
