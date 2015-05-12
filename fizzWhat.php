@@ -9,7 +9,7 @@ class fizzWhat {
 		$this->initFizzBuzzes();
 
 		if (!isset(self::$fizzBuzzes[$language])) {
-			echo "shit";
+			echo "Tell interviewer you appreciate their time but you feel you are not a great fit for this position.";
 		}
 		$this->language = $language;
 
