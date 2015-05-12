@@ -5,7 +5,7 @@ FizzWhat is even designed generically for more numbers than just 15, 5, and 3. S
 you want to use, as so:
 
 ```php
-$fizzWhat = new fizzWhat('php', array(2, 10000, 7));
+$fizzWhat = new fizzWhat('language', array(2, 10000, 7));
 ```
 
 
@@ -23,5 +23,13 @@ Have no fear. Simply add your favorite language example as so within fizzWhat.ph
 		';
 ```
 
+Make sure to also update the **README** to list what language you added if it wasn't there before! 
+
 #No no no, my way of writing fizzbuzz is better than that person who did it before me.
 No problem, just add another! Follow the above instructions, it'll work I think.
+
+#LANGUAGES SUPPORTED
+
+* PHP
+* Java
+* "my background is not really in programming" reply!
