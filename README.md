@@ -18,6 +18,8 @@ Have no fear. Simply add your favorite language example as so within fizzWhat.ph
 		self::$fizzBuzzes['beloved-language'][] = '
 		your fizzbuzz example goes here,
 		replace 15 with {number0}, 5 with {number1}, and 3 with {number2}.
+		You must do this because fizzWhat is defined in abstract to handle
+		more cases than just 15, 5, and 3.
 		';
 ```
 
