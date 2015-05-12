@@ -12,7 +12,7 @@ $fizzWhat = new fizzWhat('language', array(2, 10000, 7));
 
 * PHP
 * Java
-* "my background is not really in programming" reply!
+* "my background is not really in programming"
 
 
 ##But code maintainer, the interviewer asked for generic language that isn't included! How will I pass a fizzbuzz test now?
