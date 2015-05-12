@@ -51,6 +51,11 @@ class fizzWhat {
 			}
 		}
 		';
+
+		self::$fizzBuzzes['my background is not really in programming'][] = '
+			I dunno sir/madam, I think you like use the modulo operator to see if like, first {number0} is divisible by 0 or something?
+			Please hire me.
+		';
 	}
 
 	public function ohCrapInterviewerAskedForDifferentLanguage($language) {
