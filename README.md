@@ -17,7 +17,7 @@ Have no fear. Simply add your favorite language example as so within fizzWhat.ph
 	public function initFizzBuzzes() {
 		self::$fizzBuzzes['beloved-language'][] = '
 		your fizzbuzz example goes here,
-		replace 15 with number0, 5 with number1, and 3 with number2,
+		replace 15 with {number0}, 5 with {number1}, and 3 with {number2}.
 		';
 ```
 
