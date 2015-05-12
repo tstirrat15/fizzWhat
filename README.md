@@ -30,7 +30,7 @@ Have no fear. Simply add your favorite language example as so within fizzWhat.ph
 
 Make sure to also update the **README** to list what language you added if it wasn't there before! 
 
-##No no no, my way of writing fizzbuzz is better than that person who did it before me.
+##No no no, my way of writing fizzbuzz in generic language is better than that person who did it before me.
 No problem, just add another! Follow the above instructions, it'll work I think.
 
 
