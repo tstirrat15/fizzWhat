@@ -8,9 +8,14 @@ you want to use, as so:
 $fizzWhat = new fizzWhat('language', array(2, 10000, 7));
 ```
 
+#LANGUAGES SUPPORTED
+
+* PHP
+* Java
+* "my background is not really in programming" reply!
 
 
-#But code maintainer, the interviewer asked for generic language that isn't included! How will I pass a fizzbuzz test now?
+##But code maintainer, the interviewer asked for generic language that isn't included! How will I pass a fizzbuzz test now?
 Have no fear. Simply add your favorite language example as so within fizzWhat.php and submit a pull request:
 
 ```php
@@ -25,11 +30,7 @@ Have no fear. Simply add your favorite language example as so within fizzWhat.ph
 
 Make sure to also update the **README** to list what language you added if it wasn't there before! 
 
-#No no no, my way of writing fizzbuzz is better than that person who did it before me.
+##No no no, my way of writing fizzbuzz is better than that person who did it before me.
 No problem, just add another! Follow the above instructions, it'll work I think.
 
-#LANGUAGES SUPPORTED
 
-* PHP
-* Java
-* "my background is not really in programming" reply!
