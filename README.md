@@ -12,6 +12,7 @@ $fizzWhat = new fizzWhat('language', array(2, 10000, 7));
 
 * PHP
 * Java
+* Python
 * "my background is not really in programming"
 
 

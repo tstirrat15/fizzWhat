@@ -52,6 +52,18 @@ class fizzWhat {
 		}
 		';
 
+		self::$fizzBuzzes['python'][] = '
+	    for i in range(1, 101):
+	        if i % {number0} == 0:
+	            print("fizzBuzz")
+	        elif i % {number1} == 0:
+	            print("buzz")
+	        elif i % {number2} == 0:
+	            print("fizz")
+	        else:
+	            print(i)
+		';
+
 		self::$fizzBuzzes['my background is not really in programming'][] = '
 			I dunno sir/madam, I think you like use the modulo operator to see if like, first {number0} is divisible by 0 or something?
 			Please hire me.
